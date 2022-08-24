@@ -1,2 +1,2 @@
-# rioo.github.io
+# /index.html
 https://rioo.github.io/
